@@ -1,6 +1,6 @@
 # 都是比较难搞的订阅链接
 ### 订阅转换
-- 1.[pusb](zh.pusb.lijboy.top)
+- 1.[pusb](https://zh.pusb.lijboy.top)
 - 2.[在线订阅转换工具](https://subconverters.com/)
 ### 项目介绍
 - 1.[秒秒云官网](秒秒云.com)、[订阅链接Base64_5.11](https://raw.githubusercontent.com/lijboys/VPN-jiedian/main/miaomiao?token=GHSAT0AAAAAACRPI732C3DODTN3MBRKAHIWZR7RMUA)
