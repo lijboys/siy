@@ -1,5 +1,5 @@
 # 自己懂就好
-### 订阅转换
+### 转换
 - 1.[pusb](https://zh.pusb.lijboy.top)
 - 2.[在线转换工具](https://subconverters.com/)
 ### 项目介绍
