@@ -9,5 +9,5 @@
 - 4.穿越火线   [官网](https://cfyun01.sbs/)、 [分支5.11](https://raw.githubusercontent.com/lijboys/VPN-jiedian/main/cfy?token=GHSAT0AAAAAACRPI733ARVFQFIWKVYGZ2EGZR7R22Q)    、[链接](https://cfyun01.sbs/api/v1/client/subscribe?token=71f1dc6f6ef0a02dedfa5e1c63f346f9).     
 这个需要更改地址/IP 、用之前失效的地址/IP
 - 5.[无限流量自动更新](https://sub.yx.lijboy.top/auto)
-- 6.[雷阵雨官网](https://lzyjc.xyz/#/dashboard)，[订阅](https://lzyjc.xyz/api/v1/client/subscribe?token=3cc841bdb85445a11f18e734b89e2cbd) //ps无需邮箱认证
+- 6.[雷阵雨官网](https://lzyjc.xyz/#/dashboard)，[订阅](https://lzyjc.xyz/api/v1/client/subscribe?token=3cc841bdb85445a11f18e734b89e2cbd) （PS无需邮箱认证）
 # 其他的后续添加
